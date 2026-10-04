@@ -1,0 +1,6 @@
+{
+  "name": "จดตังค์ - JODTANG",
+  "description": "เว็บแอพบันทึกรายรับรายจ่าย จดง่าย รู้เงินทุกวัน เชื่อมต่อฐานข้อมูล Google Sheets และล็อกอินด้วย Google Account",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
